@@ -61,6 +61,7 @@ function playGame(){
             humanScore = ++humanScore
             computerScore = ++computerScore
             console.log('Tie!')
+
         }
     }
 
